@@ -1,0 +1,64 @@
+html{
+	background: url(photo-1465566829994-b8da8cae5909.jpeg) no-repeat center;
+	background-size: cover;
+}
+hr {
+		border: none;
+		height: 5px;
+		background-color: black;
+	}
+ #one{
+ 		text-align: center;
+ 		font-size: 20px;
+ 		font-weight: bolder;
+}
+h1 {
+		text-align: center;
+		color: black;
+		padding: 1%;
+		background-color: none;
+		font-size: 40px
+}
+img {
+		float: right;
+		padding: 3%;
+}
+h2{
+		padding-left: 50px;
+}
+#aboutme{	
+		color: black;
+		border: 1;
+		background-color: none;
+		width: 650px;
+		overflow: auto;
+		padding-left: 50px;
+	}
+#middle {
+		width: 650px;
+		padding-left: 50px;
+		height: 1px;
+}
+
+#links{
+	text-align: center;
+	color: purple;
+	font-size: 20;
+	font-weight: bolder;
+}
+a:visited {
+	font-style: italic;
+	}
+#experience {
+		padding-left: 50px;
+		padding-right: 50px
+}
+#portfolio {
+	font-style: verdana
+	font-size: 15px;
+}
+#another {
+		width: 900px;
+		padding-left: 50px;
+		height: 1px;
+}
